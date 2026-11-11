@@ -1,0 +1,12 @@
+# Compiled binary
+mywc
+
+# Object files and debug symbols
+*.o
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
